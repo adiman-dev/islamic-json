@@ -1,0 +1,97 @@
+[
+	{
+		"arabic": "اَلّلهُمَّ أنْتَ رَبِّيْ لَا اِلهَ اِلَّا أَنْتَ",
+		"transliteration": "Allahumma Anta Rabbi, La-ilaha illa Anta",
+		"translations":
+		[
+			{
+				"lang": "en",
+				"text": "Oh Allah You are my Lord! None has the right to be worshipped except You"
+			},
+			{
+				"lang": "ms",
+				"text": "Ya Allah engkau tuhanku tiada tuhan selain engkau"
+			},
+			{
+				"lang": "id",
+				"text": "Hai Tuhanku, Engkau Tuhanku. Tiada tuhan yang disembah selain Engkau"
+			}
+		]
+	},
+	{
+		"arabic": "خَلَقْتَنِيْ وَأَنَا عَبْدُكَ وَأَنَا عَلى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ",
+		"transliteration": "Khalaqtani wa ana ‘abduka, wa ana a’la a’hdika wa wa’dika mastata’tu",
+		"translations":
+		[
+			{
+				"lang": "en",
+				"text": "You created me. And I am your servant. And I stand by your covenant and promise"
+			},
+			{
+				"lang": "ms",
+				"text": "Engkau ciptakan aku, dan aku hambamu dan aku berada dalam janjimu menurut kemampuanku"
+			},
+			{
+				"lang": "id",
+				"text": "Engkau yang menciptakanku. Aku adalah hamba-Mu. Aku berada dalam perintah iman sesuai perjanjian-Mu sebatas kemampuanku"
+			}
+		]
+	},
+	{
+		"arabic": "أَعُوْذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ",
+		"transliteration": "a’udhu bika min sharri maa sana’tu",
+		"translations":
+		[
+			{
+				"lang": "en",
+				"text": "I seek refuge with You from all the evil I have committed"
+			},
+			{
+				"lang": "ms",
+				"text": "Aku berlindung denganmu daripada kejahatan yang ku lakukan"
+			},
+			{
+				"lang": "id",
+				"text": "Aku berlindung kepada-Mu dari kejahatan yang kuperbuat"
+			}
+		]
+	},
+	{
+		"arabic": "اَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ وَأَبُوءُ بِذَنْبِيْ",
+		"transliteration": "abuo-u laka bini’matika a’laiya, wa abuo-u bidhanbii",
+		"translations":
+		[
+			{
+				"lang": "en",
+				"text": "I acknowledge before You all the blessings You have bestowed upon me and I confess to You all my sins"
+			},
+			{
+				"lang": "ms",
+				"text": "Aku sedari nikmatmu kepadaku dan ku sedari akan dosa-dosaku"
+			},
+			{
+				"lang": "id",
+				"text": "Kepada-Mu, aku mengakui segala nikmat-Mu padaku. Aku mengakui dosaku"
+			}
+		]
+	},
+	{
+		"arabic": "فَاغْفِرْ لِيْ ذُنُوْبِىْ فَإِنَّه لَا يَغْفِرُ الذُّنُوْبَ إلَّا أَنْتَ",
+		"transliteration": "faghfirli, fa innahuo laa yaghfiru-dhunouba illaa anta",
+		"translations":
+		[
+			{
+				"lang": "en",
+				"text": "So I implore You to forgive me, for nobody can forgive sins except You"
+			},
+			{
+				"lang": "ms",
+				"text": "Ampuni aku kerna sesungguhnya tiada yang dapat mengampunkan dosa kecuali engkau"
+			},
+			{
+				"lang": "id",
+				"text": "Maka itu ampunilah dosaku. Sungguh tiada yang mengampuni dosa selain Engkau"
+			}
+		]
+	}
+]

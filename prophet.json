@@ -1,0 +1,102 @@
+[
+	{
+		"arabic": "آدم",
+		"transliteration": "Adam"
+	},
+	{
+		"arabic": "إدر يس",
+		"transliteration": "Idris (Enoch)"
+	},
+	{
+		"arabic": "نوح",
+		"transliteration": "Nuh (Noah)"
+	},
+	{
+		"arabic": "هود",
+		"transliteration": "Hud (Eber)"
+	},
+	{
+		"arabic": "صالح",
+		"transliteration": "Salih"
+	},
+	{
+		"arabic": "إبراهيم",
+		"transliteration": "Ibrahim (Abraham)"
+	},
+	{
+		"arabic": "لوط",
+		"transliteration": "Lut (Lot)"
+	},
+	{
+		"arabic": "إسماعيل",
+		"transliteration": "Isma'il (Ishmael)"
+	},
+	{
+		"arabic": "إسحاق",
+		"transliteration": "Ishaq (Isaac)"
+	},
+	{
+		"arabic": "يعقوب",
+		"transliteration": "Ya'qub (Jacob)"
+	},
+	{
+		"arabic": "يوسف",
+		"transliteration": "Yusuf (Joseph)"
+	},
+	{
+		"arabic": "أيوب",
+		"transliteration": "Ayyub (Job)"
+	},
+	{
+		"arabic": "شعيب",
+		"transliteration": "Shu'aib (Jethro)"
+	},
+	{
+		"arabic": "موسى",
+		"transliteration": "Musa (Moses)"
+	},
+	{
+		"arabic": "هارون",
+		"transliteration": "Harun (Aaron)"
+	},
+	{
+		"arabic": "ذو الكفل",
+		"transliteration": "Dhu'l-kifl (Ezekiel)"
+	},
+	{
+		"arabic": "داود",
+		"transliteration": "Dawud (David)"
+	},
+	{
+		"arabic": "سليمان",
+		"transliteration": "Sulaiman (Soloman)"
+	},
+	{
+		"arabic": "إلياس",
+		"transliteration": "Ilias (Elias)"
+	},
+	{
+		"arabic": "اليسع",
+		"transliteration": "Al-Yasa (Elisha)"
+	},
+	{
+		"arabic": "يونس",
+		"transliteration": "Yunus (Jonah)"
+	},
+	{
+		"arabic": "زكريا",
+		"transliteration": "Zakariyya (Zechariah)"
+	},
+	{
+		"arabic": "يحيى",
+		"transliteration": "Yahya (John)"
+	},
+	{
+		"arabic": "عيسى",
+		"transliteration": "Isa (Jesus)"
+	},
+	{
+		"arabic": "محمد ﷺ",
+		"transliteration": "Muhammad ﷺ"
+	}
+]

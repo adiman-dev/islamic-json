@@ -1,0 +1,242 @@
+[
+	{
+		"arabic": "ٱللهُ أَكْبَر ٱللهُ أَكْبَر",
+		"answer": "ٱللهُ أَكْبَر ٱللهُ أَكْبَر",
+		"translations":
+		[
+			{
+				"lang": "ms",
+				"text": "Allah maha besar"
+			},
+			{
+				"lang": "en",
+				"text": "Allah is the greatest"
+			}
+		],
+		"transliteration": "Allahu Akbar, Allahu Akbar"
+	},
+	{
+		"arabic": "ٱللهُ أَكْبَر ٱللهُ أَكْبَر",
+		"answer": "ٱللهُ أَكْبَر ٱللهُ أَكْبَر",
+		"translations":
+		[
+			{
+				"lang": "ms",
+				"text": "Allah maha besar"
+			},
+			{
+				"lang": "en",
+				"text": "Allah is the greatest"
+			}
+		],
+		"transliteration": "Allahu Akbar, Allahu Akbar"
+	},
+	{
+		"arabic": "أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا ٱلله",
+		"answer": "أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا ٱلله",
+		"translations":
+		[
+			{
+				"lang": "ms",
+				"text": "Aku bersaksi bahawa tiada Tuhan selain Allah"
+			},
+			{
+				"lang": "en",
+				"text": "I bear witness that there is no God but Allah"
+			}
+		],
+		"transliteration": "Ash- ha- du al- laa ilaaha il- lal- laah"
+	},
+	{
+		"arabic": "أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا ٱلله",
+		"answer": "أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا ٱلله",
+		"translations":
+		[
+			{
+				"lang": "ms",
+				"text": "Aku bersaksi bahawa tiada Tuhan selain Allah"
+			},
+			{
+				"lang": "en",
+				"text": "I bear witness that there is no God but Allah"
+			}
+		],
+		"transliteration": "Ash- ha- du al- laa ilaaha il- lal- laah"
+	},
+	{
+		"arabic": "أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ ٱلله",
+		"answer": "أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ ٱلله",
+		"translations":
+		[
+			{
+				"lang": "ms",
+				"text": "Aku bersaksi bahawa Muhammad adalah Pesuruh Allah"
+			},
+			{
+				"lang": "en",
+				"text": "I bear witness that Muhammad is the Messenger of Allah"
+			}
+		],
+		"transliteration": "Ash- ha- du an-na Muham-ma-dar Ra-soo-lul-laah"
+	},
+	{
+		"arabic": "أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ ٱلله",
+		"answer": "أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ ٱلله",
+		"translations":
+		[
+			{
+				"lang": "ms",
+				"text": "Aku bersaksi bahawa Muhammad adalah Pesuruh Allah"
+			},
+			{
+				"lang": "en",
+				"text": "I bear witness that Muhammad is the Messenger of Allah"
+			}
+		],
+		"transliteration": "Ash- ha- du an-na Muham-ma-dar Ra-soo-lul-laah"
+	},
+	{
+		"arabic": "حَيَّ عَلَى ٱلصَّلَاة",
+		"answer": "لا حَوْلَ وَلا قُوَّةَ إِلا باللهِ",
+		"translations":
+		[
+			{
+				"lang": "ms",
+				"text": "Marilah menunaikan solat"
+			},
+			{
+				"lang": "en",
+				"text": "Hasten to salah"
+			}
+		],
+		"transliteration": "Hay- Ya Alas- Salaah"
+	},
+	{
+		"arabic": "حَيَّ عَلَى ٱلصَّلَاة",
+		"answer": "لا حَوْلَ وَلا قُوَّةَ إِلا باللهِ",
+		"translations":
+		[
+			{
+				"lang": "ms",
+				"text": "Marilah menunaikan solat"
+			},
+			{
+				"lang": "en",
+				"text": "Hasten to salah"
+			}
+		],
+		"transliteration": "Hay- Ya Alas- Salaah"
+	},
+	{
+		"arabic": "حَيَّ عَلَى ٱلْفَلَاح",
+		"answer": "لا حَوْلَ وَلا قُوَّةَ إِلا باللهِ",
+		"translations":
+		[
+			{
+				"lang": "ms",
+				"text": "Marilah merebut kemenangan"
+			},
+			{
+				"lang": "en",
+				"text": "Hasten to success"
+			}
+		],
+		"transliteration": "Hay- Ya Alal- Falaah"
+	},
+	{
+		"arabic": "حَيَّ عَلَى ٱلْفَلَاح",
+		"answer": "لا حَوْلَ وَلا قُوَّةَ إِلا باللهِ",
+		"translations":
+		[
+			{
+				"lang": "ms",
+				"text": "Marilah merebut kemenangan"
+			},
+			{
+				"lang": "en",
+				"text": "Hasten to success"
+			}
+		],
+		"transliteration": "Hay- Ya Alal- Falaah"
+	},
+	{
+		"arabic": "الصَّلاَةُ خَيْرٌ مِنَ النَّوْمِ",
+		"answer": "صَدَقْتَ وَبَرَرْتََ",
+		"translations":
+		[
+			{
+				"lang": "ms",
+				"text": "Solat itu lebih baik dari tidur (Azan Subuh sahaja)"
+			},
+			{
+				"lang": "en",
+				"text": "Prayer is better than sleep.(Only In Fajar Prayer's Azaan)"
+			}
+		],
+		"transliteration": "As- Sala- tu- Khayrun Minan- nawm"
+	},
+	{
+		"arabic": "الصَّلاَةُ خَيْرٌ مِنَ النَّوْمِ",
+		"answer": "صَدَقْتَ وَبَرَرْتَ",
+		"translations":
+		[
+			{
+				"lang": "ms",
+				"text": "Solat itu lebih baik dari tidur (Azan Subuh sahaja)"
+			},
+			{
+				"lang": "en",
+				"text": "Prayer is better than sleep.(Only In Fajar Prayer's Azaan)"
+			}
+		],
+		"transliteration": "As- Sala- tu- Khayrun Minan- nawm"
+	},
+	{
+		"arabic": "ٱللهُ أَكْبَر ٱللهُ أَكْبَر",
+		"answer": "ٱللهُ أَكْبَر ٱللهُ أَكْبَر",
+		"translations":
+		[
+			{
+				"lang": "ms",
+				"text": "Allah maha besar"
+			},
+			{
+				"lang": "en",
+				"text": "Allah is greatest"
+			}
+		],
+		"transliteration": "Allahu Akbar, Allahu Akbar"
+	},
+	{
+		"arabic": "لَا إِلٰهَ إِلَّا ٱلله",
+		"answer": "لَا إِلٰهَ إِلَّا ٱلله",
+		"translations":
+		[
+			{
+				"lang": "ms",
+				"text": "Tiada Tuhan selain Allah"
+			},
+			{
+				"lang": "en",
+				"text": "There is no god but Allah"
+			}
+		],
+		"transliteration": "Laa- i-laa-ha il-lal- laah"
+	},
+	{
+		"arabic": "اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ ، وَالصَّلَاةِ الْقَائِمَةِ ، آتِ مُحَمَّداً الْوَسِيلَةَ وَالْفَضِيلَةَ ، وَابْعَثْهُ مَقَاماً مَحْمُوداً الَّذِي وَعَدْتَهُ ، إَنَّكَ لَا تُخْلِفُ الْمِيعَادَ",
+		"answer": "",
+		"translations":
+		[
+			{
+				"lang": "ms",
+				"text": "Wahai Allah, Tuhan yang menguasai seruan yang sempurna ini dan solat yang sedang didirikan, Datangkanlah Nabi Muhammad (kepadaku) sebagai penghubung (kepada Allah) dan keutamaan (bagiku),, Serta kedudukan yang terpuji yang telah Engkau janjikan untuknya. Sesungguhnya Engkau tidak memungkiri janji"
+			},
+			{
+				"lang": "en",
+				"text": "O Allah, Owner of this perfect call and Owner of this prayer to be performed, bestow upon Muhammad al-waseelah (الوسیلۃ) and al-fadeelah (الفضیلۃ) and send him upon a praised platform which You have promised him. Verily, You never fail in Your promise"
+			}
+		],
+		"transliteration": "Dua after adhan:\nAllaahumma Rabbahaa thi hid-da 'watit-taammati wassalaatil-qaa'imati, 'aati Muhammadanil-waseelata walfadheelata, wab 'ath-hu maqaamam-mahmoodanil-lathee wa'adtahu, 'innaka laa tukhliful-mee'aad"
+	}
+]

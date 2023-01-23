@@ -1,0 +1,2576 @@
+[
+	{
+		"arabic": "الرَّحْمَنُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pengasih, iaitu pemberi kenikmatan yang agung-agung dan pengasih di dunia"
+			},
+			{
+				"lang": "en",
+				"text": "The Beneficent"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Pemurah"
+			},
+			{
+				"lang": "en",
+				"text": "He who wills goodness and mercy for all His creatures"
+			}
+		],
+		"transliteration": "Ar-Rahmaan"
+	},
+	{
+		"arabic": "الرَّحِيمُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Penyayang, iaitu pemberi kenikmatan yang di luar jangkaan dan penyayang di akhirat"
+			},
+			{
+				"lang": "en",
+				"text": "The Merciful"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Penyayang"
+			},
+			{
+				"lang": "en",
+				"text": "He who acts with extreme kindness"
+			}
+		],
+		"transliteration": "Ar-Raheem"
+	},
+	{
+		"arabic": "الْمَلِكُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Merajai/Menguasai/Pemerintah, iaitu mengatur kerajaanNya sesuai dengan kehendakNya sendiri"
+			},
+			{
+				"lang": "en",
+				"text": "The Eternal Lord"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Memiliki"
+			},
+			{
+				"lang": "en",
+				"text": "The Sovereign Lord, The One with the complete Dominion, the One Whose Dominion is clear from imperfection"
+			}
+		],
+		"transliteration": "Al-Malik"
+	},
+	{
+		"arabic": "الْقُدُّوسُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Suci, iaitu tersuci dan bersih dari segala cela dan kekurangan"
+			},
+			{
+				"lang": "en",
+				"text": "The Most Sacred"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Suci"
+			},
+			{
+				"lang": "en",
+				"text": "The One who is pure from any imperfection and clear from children and adversaries"
+			}
+		],
+		"transliteration": "Al-Quddus"
+	},
+	{
+		"arabic": "السَّلاَمُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Penyelamat, iaitu pemberi keselamatan dan kesejahteraan kepada seluruh makhlukNya"
+			},
+			{
+				"lang": "en",
+				"text": "The Embodiment of Peace"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Sejahtera"
+			},
+			{
+				"lang": "en",
+				"text": "The One who is free from every imperfection"
+			}
+		],
+		"transliteration": "As-Salam"
+	},
+	{
+		"arabic": "الْمُؤْمِنُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pengaman/Pemelihara keamanan, iaitu siapa yang bersalah dan makhlukNya itu benar-benar akan diberi seksa, sedang kepada yang taat akan benar-benar dipenuhi janjiNya dengan pahala yang baik"
+			},
+			{
+				"lang": "en",
+				"text": "The Infuser of Faith"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Memberi Keamanan"
+			},
+			{
+				"lang": "en",
+				"text": "The One who witnessed for Himself that no one is God but Him. And He witnessed for His believers that they are truthful in their belief that no one is God but Him"
+			}
+		],
+		"transliteration": "Al-Mu’min"
+	},
+	{
+		"arabic": "الْمُهَيْمِنُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pelindung/Penjaga/Maha Pengawal serta Pengawas, iaitu memerintah dan melindungi segala sesuatu"
+			},
+			{
+				"lang": "en",
+				"text": "The Preserver of Safety"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Memelihara"
+			},
+			{
+				"lang": "en",
+				"text": "The One who witnesses the saying and deeds of His creatures"
+			}
+		],
+		"transliteration": "Al-Muhaymin"
+	},
+	{
+		"arabic": "الْعَزِيزُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Mulia/Maha Berkuasa, iaitu kuasaNya mampu untuk berbuat sekehendakNya"
+			},
+			{
+				"lang": "en",
+				"text": "The Mighty One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Perkasa"
+			},
+			{
+				"lang": "en",
+				"text": "The Strong, The Defeater who is not defeated"
+			}
+		],
+		"transliteration": "Al-Aziz"
+	},
+	{
+		"arabic": "الْجَبَّارُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Perkasa/Maha Kuat/Yang Menundukkan Segalanya, iaitu mencukupi segala keperluan, melangsungkan segala perintahNya serta memperbaiki keadaan seluruh hambaNya"
+			},
+			{
+				"lang": "en",
+				"text": "The Omnipotent One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Menundukkan Segalanya"
+			},
+			{
+				"lang": "en",
+				"text": "The One that nothing happens in His Dominion except that which He willed"
+			}
+		],
+		"transliteration": "Al-Jabbar"
+	},
+	{
+		"arabic": "الْمُتَكَبِّرُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Megah/Maha Pelengkap Kebesaran. iaitu yang melengkapi segala kebesaranNya, menyendiri dengan sifat keagungan dan kemegahanNya"
+			},
+			{
+				"lang": "en",
+				"text": "The Dominant One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Memiliki Kebesaran"
+			},
+			{
+				"lang": "en",
+				"text": "The One who is clear from the attributes of the creatures and from resembling them"
+			}
+		],
+		"transliteration": "Al-Mutakabbir"
+	},
+	{
+		"arabic": "الْخَالِقُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pencipta, iaitu mengadakan seluruh makhluk tanpa asal, juga yang menakdirkan adanya semua itu"
+			},
+			{
+				"lang": "en",
+				"text": "The Creator"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Pencipta"
+			},
+			{
+				"lang": "en",
+				"text": "The One who brings everything from non-existence to existence"
+			}
+		],
+		"transliteration": "Al-Khaaliq"
+	},
+	{
+		"arabic": "الْبَارِئُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pencipta/Maha Perancang/Maha Menjadikan, iaitu mengadakan sesuatu yang bernyawa yang ada asal mulanya"
+			},
+			{
+				"lang": "en",
+				"text": "The Evolver"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Perancang"
+			},
+			{
+				"lang": "en",
+				"text": "The Maker, The Creator who has the Power to turn the entities"
+			}
+		],
+		"transliteration": "Al-Baari"
+	},
+	{
+		"arabic": "الْمُصَوِّرُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pembentuk, memberikan gambaran atau bentuk pada sesuatu yang berbeza dengan lainnya"
+			},
+			{
+				"lang": "en",
+				"text": "The Flawless Shaper"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Pembentuk"
+			},
+			{
+				"lang": "en",
+				"text": "The One who forms His creatures in different pictures"
+			}
+		],
+		"transliteration": "Al-Musawwir"
+	},
+	{
+		"arabic": "الْغَفَّارُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pengampun, banyak pemberian maafNya dan menutupi dosa-dosa dan kesalahan"
+			},
+			{
+				"lang": "en",
+				"text": "The Great Forgiver"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Pengampun"
+			},
+			{
+				"lang": "en",
+				"text": "The Forgiver, The One who forgives the sins of His slaves time and time again"
+			}
+		],
+		"transliteration": "Al-Ghaffaar"
+	},
+	{
+		"arabic": "الْقَهَّارُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pemaksa, menggenggam segala sesuatu dalam kekuasaanNya serta memaksa segala makhluk menurut kehendakNya"
+			},
+			{
+				"lang": "en",
+				"text": "The All-Prevailing One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Pemaksa"
+			},
+			{
+				"lang": "en",
+				"text": "The Dominant, The One who has the perfect Power and is not unable over anything"
+			}
+		],
+		"transliteration": "Al-Qahhaar"
+	},
+	{
+		"arabic": "الْوَهَّابُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Menganugerah, iaitu memberi banyak kenikmatan dan selalu memberi kurnia"
+			},
+			{
+				"lang": "en",
+				"text": "The Supreme Bestower"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Menganugerah"
+			},
+			{
+				"lang": "en",
+				"text": "The One who is Generous in giving plenty without any return. He is everything that benefits whether Halal or Haram"
+			}
+		],
+		"transliteration": "Al-Wahhab"
+	},
+	{
+		"arabic": "الرَّزَّاقُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pemberi Rezeki, iaitu memberi berbagai rezeki serta membuat juga sebab-sebab diperolehnya"
+			},
+			{
+				"lang": "en",
+				"text": "The Total Provider"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Pemberi Rezeki"
+			},
+			{
+				"lang": "en",
+				"text": "The Sustainer, The Provider"
+			}
+		],
+		"transliteration": "Ar-Razzaq"
+	},
+	{
+		"arabic": "الْفَتَّاحُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Membukakan/Maha Pembuka, iaitu membuka gedung penyimpanan rahmatNya untuk seluruh hambaNya"
+			},
+			{
+				"lang": "en",
+				"text": "The Supreme Solver"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Pembuka"
+			},
+			{
+				"lang": "en",
+				"text": "The Opener, The Reliever, The Judge, The One who opens for His slaves the closed worldly and religious matters"
+			}
+		],
+		"transliteration": "Al-Fattah"
+	},
+	{
+		"arabic": "اَلْعَلِيْمُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Mengetahui, iaitu mengetahui segala yang maujud dan tidak ada satu benda pun yang tertutup oleh penglihatanNya"
+			},
+			{
+				"lang": "en",
+				"text": "The All-Knowing One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Mengetahui"
+			},
+			{
+				"lang": "en",
+				"text": "The Knowledgeable; The One nothing is absent from His knowledge"
+			}
+		],
+		"transliteration": "Al-Alim"
+	},
+	{
+		"arabic": "الْقَابِضُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pencabut/Maha Penyempit Hidup/Maha Pengekang, iaitu mengambil nyawa atau menyempitkan rezeki bagi siapa yang dikehendaki olehNya"
+			},
+			{
+				"lang": "en",
+				"text": "The Restricting One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Menyempitkan"
+			},
+			{
+				"lang": "en",
+				"text": "The Constrictor, The Withholder, The One who constricts the sustenance by His wisdom and expands and widens it with His Generosity and Mercy"
+			}
+		],
+		"transliteration": "Al-Qaabid"
+	},
+	{
+		"arabic": "الْبَاسِطُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Meluaskan/Maha Pelapang Hidup/Maha Melimpah Nikmat, iaitu memudahkan terkumpulnya rezeki bagi siapa yang diinginkan olehNya"
+			},
+			{
+				"lang": "en",
+				"text": "The Extender"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Meluaskan"
+			},
+			{
+				"lang": "en",
+				"text": "The Englarger, The One who constricts the sustenance by His wisdom and expands and widens it with His Generosity and Mercy"
+			}
+		],
+		"transliteration": "Al-Baasit"
+	},
+	{
+		"arabic": "الْخَافِضُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Menjatuhkan/Maha Menghinakan/Maha Perendah/Pengurang, iaitu terhadap orang yang selayaknya dijatuhkan akibat kelakuannya sendiri dengan memberinya kehinaan, kerendahan dan seksaan"
+			},
+			{
+				"lang": "en",
+				"text": "The Reducer"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Merendahkan"
+			},
+			{
+				"lang": "en",
+				"text": "The Abaser, The One who lowers whoever He willed by His Destruction and raises whoever He willed by His Endowment"
+			}
+		],
+		"transliteration": "Al-Khaafid"
+	},
+	{
+		"arabic": "الرَّافِعُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Mengangkat/Maha Peninggi, iaitu terhadap orang yang selayaknya diangkat kedudukannya kerana usahanya yang giat, iaitu termasuk golongan kaum yang bertaqwa"
+			},
+			{
+				"lang": "en",
+				"text": "The Elevating One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Meninggikan"
+			},
+			{
+				"lang": "en",
+				"text": "The Exalter, The Elevator, The One who lowers whoever He willed by His Destruction and raises whoever He willed by His Endowment"
+			}
+		],
+		"transliteration": "Ar-Rafi"
+	},
+	{
+		"arabic": "الْمُعِزُّ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Menghormati/Memuliakan/Maha Pemberi Kemuliaan/Kemenangan, iaitu kepada orang yang berpegang teguh pada agamaNya dengan memberinya pentolongan dan kemenangan"
+			},
+			{
+				"lang": "en",
+				"text": "The Honourer-Bestower"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Memuliakan"
+			},
+			{
+				"lang": "en",
+				"text": "He gives esteem to whoever He willed, hence there is no one to degrade Him; And He degrades whoever He willed, hence there is no one to give Him esteem"
+			}
+		],
+		"transliteration": "Al-Mu’izz"
+	},
+	{
+		"arabic": "المُذِلُّ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Menghina/Pemberi kehinaan, iaitu kepada musuh-musuhNya dan musuh ummat Islam seluruhnya"
+			},
+			{
+				"lang": "en",
+				"text": "The Abaser"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Menghinakan"
+			},
+			{
+				"lang": "en",
+				"text": "The Dishonourer, The Humiliator, He gives esteem to whoever He willed, hence there is no one to degrade Him; And He degrades whoever He willed, hence there is no one to give Him esteem"
+			}
+		],
+		"transliteration": "Al-Muzil"
+	},
+	{
+		"arabic": "السَّمِيعُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pendengar"
+			},
+			{
+				"lang": "en",
+				"text": "The All-Hearer"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Mendengar"
+			},
+			{
+				"lang": "en",
+				"text": "The Hearer, The One who Hears all things that are heard by His Eternal Hearing without an ear, instrument or organ"
+			}
+		],
+		"transliteration": "As-Sami’"
+	},
+	{
+		"arabic": "الْبَصِيرُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Melihat"
+			},
+			{
+				"lang": "en",
+				"text": "The All-Seeing"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Melihat"
+			},
+			{
+				"lang": "en",
+				"text": "The All-Noticing, The One who Sees all things that are seen by His Eternal Seeing without a pupil or any other instrument"
+			}
+		],
+		"transliteration": "Al-Baseer"
+	},
+	{
+		"arabic": "الْحَكَمُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Menghukum/Maha Mengadili, iaitu sebagai hakim yang menetapkan/memutuskan yang tidak seorang pun dapat menolak keputusanNya, juga tidak seorang pun yang berkuasa merintangi kelangsungan hukumNya itu"
+			},
+			{
+				"lang": "en",
+				"text": "The Impartial Judge"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Menghukum"
+			},
+			{
+				"lang": "en",
+				"text": "The Judge, He is the Ruler and His judgment is His Word"
+			}
+		],
+		"transliteration": "Al-Hakam"
+	},
+	{
+		"arabic": "الْعَدْلُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Adil. Serta sangat sempurna dalam keadilanNya itu"
+			},
+			{
+				"lang": "en",
+				"text": "The Embodiment of Justice"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Adil"
+			},
+			{
+				"lang": "en",
+				"text": "The Just, The One who is entitled to do what He does"
+			}
+		],
+		"transliteration": "Al-Adl"
+	},
+	{
+		"arabic": "اللَّطِيفُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Menghalusi/Maha Teliti/Maha Lembut serta Halus, iaitu mengetahui segala sesuatu yang samar-samar, juga melayan hamba-hambaNYA dengan penuh kelembutan dan kasih sayang"
+			},
+			{
+				"lang": "en",
+				"text": "The Knower of Subtleties"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Lembut"
+			},
+			{
+				"lang": "en",
+				"text": "The Subtle One, The Gracious, The One who is kind to His slaves and endows upon them"
+			}
+		],
+		"transliteration": "Al-Lateef"
+	},
+	{
+		"arabic": "الْخَبِيرُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Waspada/Maha Mengetahui"
+			},
+			{
+				"lang": "en",
+				"text": "The All-Aware One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Waspada"
+			},
+			{
+				"lang": "en",
+				"text": "The One who knows the truth of things"
+			}
+		],
+		"transliteration": "Al-Khabeer"
+	},
+	{
+		"arabic": "الْحَلِيمُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Penyabar/Maha Penyantun/Maha Penghamba, iaitu yang tidak tergesa-gesa melakukan kemarahan dan tidak pula gelojoh memberikan siksaan"
+			},
+			{
+				"lang": "en",
+				"text": "The Clement One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Penyantun"
+			},
+			{
+				"lang": "en",
+				"text": "The Forebearing, The One who delays the punishment for those who deserve it and then He might forgive them"
+			}
+		],
+		"transliteration": "Al-Haleem"
+	},
+	{
+		"arabic": "الْعَظِيمُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Agung, iaitu mencapai puncak tertinggi dan di mercu keagungan kerana bersifat dengan segala macam sifat kebesaran dan kesempunnaan"
+			},
+			{
+				"lang": "en",
+				"text": "The Magnificent One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Agong"
+			},
+			{
+				"lang": "en",
+				"text": "The Great One, The Mighty, The One deserving the attributes of Exaltment, Glory, Extolement, and Purity from all imperfection"
+			}
+		],
+		"transliteration": "Al-Azeem"
+	},
+	{
+		"arabic": "الْغَفُورُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pengampun, banyak pengampunanNya kepada hamba-hambaNya"
+			},
+			{
+				"lang": "en",
+				"text": "The Great Forgiver"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Pengampun"
+			},
+			{
+				"lang": "en",
+				"text": "The All-Forgiving, The Forgiving, The One who forgives a lot"
+			}
+		],
+		"transliteration": "Al-Ghafoor"
+	},
+	{
+		"arabic": "الشَّكُورُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pembalas/Maha Bersyukur, iaitu memberikan balasan yang banyak sekali atas amalan yang kecil"
+			},
+			{
+				"lang": "en",
+				"text": "The Acknowledging One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Mensyukuri"
+			},
+			{
+				"lang": "en",
+				"text": "The Grateful, The Appreciative, The One who gives a lot of reward for a little obedience"
+			}
+		],
+		"transliteration": "Ash-Shakoor"
+	},
+	{
+		"arabic": "الْعَلِيُّ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Tinggi Martabat-Nya/Maha Tinggi serta Mulia, iaitu mencapai tingkat yang setinggi-tingginya yang tidak mungkin digambarkan oleh akal fikiran sesiapa pun dan tidak dapat difahami oleh otak yang bagaimanapun pandainya"
+			},
+			{
+				"lang": "en",
+				"text": "The Sublime One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Tinggi"
+			},
+			{
+				"lang": "en",
+				"text": "The Most High, The One who is clear from the attributes of the creatures"
+			}
+		],
+		"transliteration": "Al-Aliyy"
+	},
+	{
+		"arabic": "الْكَبِيرُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Besar, yang kebesaranNya tidak dapat dicapai oleh pancaindera ataupun akal manusia"
+			},
+			{
+				"lang": "en",
+				"text": "The Great One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Besar"
+			},
+			{
+				"lang": "en",
+				"text": "The Most Great, The Great, The One who is greater than everything in status"
+			}
+		],
+		"transliteration": "Al-Kabeer"
+	},
+	{
+		"arabic": "الْحَفِيظُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pemelihara Maha Pelindung/Maha Memelihara, iaitu menjaga segala sesuatu jangan sampai rosak dan goyah. Juga menjaga segala amal perbuatan hamba-hambaNya, sehingga tidak akan disia-siakan sedikit pun untuk memberikan balasanNya"
+			},
+			{
+				"lang": "en",
+				"text": "The Guarding One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Memelihara"
+			},
+			{
+				"lang": "en",
+				"text": "The Preserver, The Protector, The One who protects whatever and whoever He willed to protect"
+			}
+		],
+		"transliteration": "Al-Hafiz"
+	},
+	{
+		"arabic": "المُقيِت",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pemberi kecukupan/ Maha Pemberi Keperluan, baik yang berupa makanan tubuh ataupun makanan rohani"
+			},
+			{
+				"lang": "en",
+				"text": "The Sustaining One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Memberi Kekuatan"
+			},
+			{
+				"lang": "en",
+				"text": "The Maintainer, The Guardian, The Feeder, The One who has the Power"
+			}
+		],
+		"transliteration": "Al-Muqeet"
+	},
+	{
+		"arabic": "الْحسِيبُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Penjamin/Maha Mencukupi/Maha Penghitung, iaitu memberikan jaminan kecukupan kepada seluruh bamba-hambaNya pada hari Qiamat"
+			},
+			{
+				"lang": "en",
+				"text": "The Reckoning One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Menghisab"
+			},
+			{
+				"lang": "en",
+				"text": "The Reckoner, The One who gives the satisfaction"
+			}
+		],
+		"transliteration": "Al-Haseeb"
+	},
+	{
+		"arabic": "الْجَلِيلُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Luhur, iaitu yang memiliki sifat-sifat keluhuran kerana kesempurnaan sifat-sifatNya"
+			},
+			{
+				"lang": "en",
+				"text": "The Majestic One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Mempunyai Kesempurnaan"
+			},
+			{
+				"lang": "en",
+				"text": "The Sublime One, The Beneficent, The One who is attributed with greatness of Power and Glory of status"
+			}
+		],
+		"transliteration": "Al-Jaleel"
+	},
+	{
+		"arabic": "الْكَرِيمُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pemurah, iaitu mulia tanpa had dan memberi siapa pun tanpa diminta atau sebagai penggantian dan sesuatu pemberian"
+			},
+			{
+				"lang": "en",
+				"text": "The Bountiful One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Pemurah"
+			},
+			{
+				"lang": "en",
+				"text": "The Generous One, The Gracious, The One who is attributed with greatness of Power and Glory of status"
+			}
+		],
+		"transliteration": "Al-Kareem"
+	},
+	{
+		"arabic": "الرَّقِيبُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Peneliti/Maha Pengawas/Maha Waspada, iaitu yang mengamat-amati gerak-geri segala sesuatu dan mengawasinya"
+			},
+			{
+				"lang": "en",
+				"text": "The Watchful One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Mengawasi"
+			},
+			{
+				"lang": "en",
+				"text": "The Watcher, The One that nothing is absent from Him. Hence it’s meaning is related to the attribute of Knowledge"
+			}
+		],
+		"transliteration": "Ar-Raqeeb"
+	},
+	{
+		"arabic": "الْمُجِيبُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Mengabulkan, iaitu yang memenuhi permohonan siapa saja yang berdoa padaNya"
+			},
+			{
+				"lang": "en",
+				"text": "The Responding One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Mengabulkan"
+			},
+			{
+				"lang": "en",
+				"text": "The Responsive, The Hearkener, The One who answers the one in need if he asks Him and rescues the yearner if he calls upon Him"
+			}
+		],
+		"transliteration": "Al-Mujeeb"
+	},
+	{
+		"arabic": "الْوَاسِعُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Luas Pemberian-Nya, iaitu kerahmatanNya merata kepada segala yang maujud dan luas pula ilmuNya terhadap segala sesuatu"
+			},
+			{
+				"lang": "en",
+				"text": "The All-Pervading One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Luas"
+			},
+			{
+				"lang": "en",
+				"text": "The Vast, The All-Embracing, The Knowledgeable"
+			}
+		],
+		"transliteration": "Al-Waasi’"
+	},
+	{
+		"arabic": "الْحَكِيمُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Bijaksana, iaitu memiliki kebijaksanaan yang tertinggi kesempurnaan ilmuNya serta kerapiannya dalam membuat segala sesuatu"
+			},
+			{
+				"lang": "en",
+				"text": "The Wise One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Bijaksana"
+			},
+			{
+				"lang": "en",
+				"text": "The Wise, The Judge of Judges, The One who is correct in His doings"
+			}
+		],
+		"transliteration": "Al-Hakeem"
+	},
+	{
+		"arabic": "الْوَدُودُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pencinta/Maha Menyayangi, iaitu yang menginginkan segala kebaikan untuk seluruh hambaNya dan juga berbuat baik pada mereka itu dalam segala hal dan keadaan"
+			},
+			{
+				"lang": "en",
+				"text": "The Loving One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Pecinta"
+			},
+			{
+				"lang": "en",
+				"text": "The One who loves His believing slaves and His believing slaves love Him. His love to His slaves is His Will to be merciful to them and praise them"
+			}
+		],
+		"transliteration": "Al-Wadud"
+	},
+	{
+		"arabic": "الْمَجِيدُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Mulia, iaitu yang mencapai tingkat teratas dalam hal kemuliaan dan keutamaan"
+			},
+			{
+				"lang": "en",
+				"text": "The Glorious One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Mulia"
+			},
+			{
+				"lang": "en",
+				"text": "The Most Glorious One, The One who is with perfect Power, High Status, Compassion, Generosity and Kindness"
+			}
+		],
+		"transliteration": "Al-Majeed"
+	},
+	{
+		"arabic": "الْبَاعِثُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Membangkitkan, iaitu membangkitkan semangat dan kemahuan, juga membangkitkan para Rasul dan orang-orang yang telah mati dari kubur masing-masing nanti setelah tibanya hari Qiamat"
+			},
+			{
+				"lang": "en",
+				"text": "The Infuser of New Life"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Membangkitkan"
+			},
+			{
+				"lang": "en",
+				"text": "The Resurrector, The Raiser (from death), The One who resurrects His slaves after death for reward and/or punishment"
+			}
+		],
+		"transliteration": "Al-Ba’ith"
+	},
+	{
+		"arabic": "الشَّهِيدُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Menyaksikan/Maha Mengetahui keadaan semua makhluk"
+			},
+			{
+				"lang": "en",
+				"text": "The All Observing Witness"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Menyaksikan"
+			},
+			{
+				"lang": "en",
+				"text": "The Witness, The One who nothing is absent from Him"
+			}
+		],
+		"transliteration": "Ash-Shaheed"
+	},
+	{
+		"arabic": "الْحَقُّ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Haq/Maha Benar yang kekal dan tidak akan berubah sedikit pun"
+			},
+			{
+				"lang": "en",
+				"text": "The Embodiment of Truth"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Benar"
+			},
+			{
+				"lang": "en",
+				"text": "The Truth, The True, The One who truly exists"
+			}
+		],
+		"transliteration": "Al-Haqq"
+	},
+	{
+		"arabic": "الْوَكِيلُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pentadbir/Maha Berserah/Maha Memelihara penyerahan, yakni memelihara semua urusan hamba-hambaNya dan apa-apa yang menjadi keperluan mereka itu"
+			},
+			{
+				"lang": "en",
+				"text": "The Universal Trustee"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Menguruskan Amanah"
+			},
+			{
+				"lang": "en",
+				"text": "The Trustee, The One who gives the satisfaction and is relied upon"
+			}
+		],
+		"transliteration": "Al-Wakeel"
+	},
+	{
+		"arabic": "الْقَوِيُّ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Kuat/Maha Memiliki Kekuatan, iaitu yang memiliki kekuasaan yang sesempurnanya"
+			},
+			{
+				"lang": "en",
+				"text": "The Strong One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Kuat"
+			},
+			{
+				"lang": "en",
+				"text": "The Most Strong, The Strong, The One with the complete Power"
+			}
+		],
+		"transliteration": "Al-Qawwiyy"
+	},
+	{
+		"arabic": "الْمَتِينُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Teguh/Maha Kukuh atau Perkasa/Maha Sempurna Kekuatan-Nya, iaitu memiliki keperkasaan yang sudah sampai di puncaknya"
+			},
+			{
+				"lang": "en",
+				"text": "The Firm One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Teguh"
+			},
+			{
+				"lang": "en",
+				"text": "The One with extreme Power which is un-interrupted and He does not get tired"
+			}
+		],
+		"transliteration": "Al-Mateen"
+	},
+	{
+		"arabic": "الْوَلِيُّ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Melindungi, iaitu melindungi serta mengaturkan semua kepentingan makhlukNya kerana kecintaanNya yang amat sangat dan pemberian pertolonganNya yang tidak terbatas pada keperluan mereka"
+			},
+			{
+				"lang": "en",
+				"text": "The Protecting Associate"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Melindungi lagi Maha Mengurus"
+			},
+			{
+				"lang": "en",
+				"text": "The Protecting Friend, The Supporter"
+			}
+		],
+		"transliteration": "Al-Waliyy"
+	},
+	{
+		"arabic": "الْحَمِيدُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Terpuji, yang memang sudah selayaknya untuk memperoleh pujian dan sanjungan"
+			},
+			{
+				"lang": "en",
+				"text": "The Sole-Laudable One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Terpuji"
+			},
+			{
+				"lang": "en",
+				"text": "The Praiseworthy, The praised One who deserves to be praised"
+			}
+		],
+		"transliteration": "Al-Hameed"
+	},
+	{
+		"arabic": "الْمُحْصِي",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Menghitung/Maha Penghitung, iaitu yang tiada satu pun tertutup dari pandanganNya dan semua amalan diperhitungkan sebagaimana wajarnya"
+			},
+			{
+				"lang": "en",
+				"text": "The All-Enumerating One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Menghitung"
+			},
+			{
+				"lang": "en",
+				"text": "The Counter, The Reckoner, The One who the count of things are known to him"
+			}
+		],
+		"transliteration": "Al-Muhsee"
+	},
+	{
+		"arabic": "الْمُبْدِئُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Memulai/Pemula/Maha Pencipta dari Asal, iaitu yang melahirkan sesuatu yang asalnya tidak ada dan belum maujud"
+			},
+			{
+				"lang": "en",
+				"text": "The Originator"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Memulai"
+			},
+			{
+				"lang": "en",
+				"text": "The One who started the human being. That is, He created him"
+			}
+		],
+		"transliteration": "Al-Mubdi"
+	},
+	{
+		"arabic": "الْمُعِيدُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Mengulangi/Maha Mengembalikan dan Memulihkan, iaitu menumbuhkan kembali setelah lenyapnya atau setelah rosaknya"
+			},
+			{
+				"lang": "en",
+				"text": "The Restorer"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Mengembalikan"
+			},
+			{
+				"lang": "en",
+				"text": "The Reproducer, The One who brings back the creatures after death"
+			}
+		],
+		"transliteration": "Al-Mueed"
+	},
+	{
+		"arabic": "الْمُحْيِي",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Menghidupkan, iaitu memberikan daya kehidupan pada setiap sesuatu yang berhak hidup"
+			},
+			{
+				"lang": "en",
+				"text": "The Maintainer of life"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Menghidupkan"
+			},
+			{
+				"lang": "en",
+				"text": "The Restorer, The Giver of Life, The One who took out a living human from semen that does not have a soul. He gives life by giving the souls back to the worn out bodies on the resurrection day and He makes the hearts alive by the light of knowledge"
+			}
+		],
+		"transliteration": "Al-Muhyi"
+	},
+	{
+		"arabic": "اَلْمُمِيتُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Mematikan, iaitu mengambil kehidupan (roh) dari apa-apa yang hidup"
+			},
+			{
+				"lang": "en",
+				"text": "The Inflictor of Death"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Mematikan"
+			},
+			{
+				"lang": "en",
+				"text": "The Creator of Death, The Destroyer, The One who renders the living dead"
+			}
+		],
+		"transliteration": "Al-Mumeet"
+	},
+	{
+		"arabic": "الْحَيُّ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Hidup, iaitu sentiasa kekal hidupNya itu"
+			},
+			{
+				"lang": "en",
+				"text": "The Eternally Living One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Hidup"
+			},
+			{
+				"lang": "en",
+				"text": "The Alive, The One attributed with a life that is unlike our life and is not that of a combination of soul, flesh or blood"
+			}
+		],
+		"transliteration": "Al-Hayy"
+	},
+	{
+		"arabic": "الْقَيُّومُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Berdiri Dengan Sendiri-Nya, iaitu baik ZatNya, SifatNya, Af’alNya. Juga membuat berdirinya apa-apa yang selain Dia. DenganNya pula berdirinya langit dan bumi ini"
+			},
+			{
+				"lang": "en",
+				"text": "The Self-Subsisting One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Berdiri Sendiri lagi Maha Tegak"
+			},
+			{
+				"lang": "en",
+				"text": "The One who remains and does not end"
+			}
+		],
+		"transliteration": "Al-Qayyoom"
+	},
+	{
+		"arabic": "الْوَاجِدُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Penemu/Maha Menemukan, iaitu dapat menemukan apa saja yang diinginkan olehNya, maka tidak berkehendakkan pada suatu apa pun kerana sifat kayaNya yang secara mutlak"
+			},
+			{
+				"lang": "en",
+				"text": "The Pointing One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Menemukan"
+			},
+			{
+				"lang": "en",
+				"text": "The Perceiver, The Finder, The Rich who is never poor. Al-Wajd is Richness"
+			}
+		],
+		"transliteration": "Al-Waajid"
+	},
+	{
+		"arabic": "الْمَاجِدُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Mulia"
+			},
+			{
+				"lang": "en",
+				"text": "The All-Noble One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Maha Mulia"
+			},
+			{
+				"lang": "en",
+				"text": "The Glorious, He who is Most Glorious"
+			}
+		],
+		"transliteration": "Al-Maajid"
+	},
+	{
+		"arabic": "الْواحِدُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Esa"
+			},
+			{
+				"lang": "en",
+				"text": "The Only One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Esa"
+			},
+			{
+				"lang": "en",
+				"text": "The Unique, The One, The One without a partner"
+			}
+		],
+		"transliteration": "Al-Waahid"
+	},
+	{
+		"arabic": "اَلاَحَدُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Tunggal"
+			},
+			{
+				"lang": "en",
+				"text": "The Sole One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Tunggal"
+			},
+			{
+				"lang": "en",
+				"text": "The One"
+			}
+		],
+		"transliteration": "Al-Ahad"
+	},
+	{
+		"arabic": "الصَّمَدُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Diperlukan/Maha Diminta/Yang Menjadi Tumpuan, iaitu selalu menjadi tujuan dan harapan orang di waktu ada hajat keperluan"
+			},
+			{
+				"lang": "en",
+				"text": "The Supreme Provider"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Diperlukan"
+			},
+			{
+				"lang": "en",
+				"text": "The Eternal, The Independent, The Master who is relied upon in matters and reverted to in ones needs"
+			}
+		],
+		"transliteration": "As-Samad"
+	},
+	{
+		"arabic": "الْقَادِرُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Berkuasa/Maha Kuasa/Maha Berupaya"
+			},
+			{
+				"lang": "en",
+				"text": "The Omnipotent One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Menentukan lagi Maha Berkuasa"
+			},
+			{
+				"lang": "en",
+				"text": "The Able, The Capable, The One attributed with Power"
+			}
+		],
+		"transliteration": "Al-Qaadir"
+	},
+	{
+		"arabic": "الْمُقْتَدِرُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Menentukan"
+			},
+			{
+				"lang": "en",
+				"text": "The All Authoritative One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Berkuasa dan Maha Menentukan"
+			},
+			{
+				"lang": "en",
+				"text": "The Powerful, The Dominant, The One with the perfect Power that nothing is withheld from Him"
+			}
+		],
+		"transliteration": "Al-Muqtadir"
+	},
+	{
+		"arabic": "الْمُقَدِّمُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Mendahulukan/Maha Menyegera, iaitu mendahulukan sebahagian benda dari yang lainnya dalam mewujudnya, atau dalam kemuliaannya, selisih waktu atau tempatnya."
+			},
+			{
+				"lang": "en",
+				"text": "The Expediting One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Mendahulukan"
+			},
+			{
+				"lang": "en",
+				"text": "The Expediter, The Promoter, The One who puts things in their right places. He makes ahead what He wills and delays what He wills"
+			}
+		],
+		"transliteration": "Al-Muqaddim"
+	},
+	{
+		"arabic": "الْمُؤَخِّرُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Menangguhkan/Maha Mengakhirkan/Maha Membelakangkan/Maha Melambat-lambatkan., iaitu melewatkan sebahagian sesuatu dari yang lainnya"
+			},
+			{
+				"lang": "en",
+				"text": "The Procrastinator"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Mengakhirkan"
+			},
+			{
+				"lang": "en",
+				"text": "The Delayer, the Retarder, The One who puts things in their right places. He makes ahead what He wills and delays what He wills"
+			}
+		],
+		"transliteration": "Al-Mu’akhkhir"
+	},
+	{
+		"arabic": "الأوَّلُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pemulaan /Maha Pertama, iaitu terdahulu sekali dari semua yang maujud"
+			},
+			{
+				"lang": "en",
+				"text": "The Very First"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Memulakan"
+			},
+			{
+				"lang": "en",
+				"text": "The First, The One whose Existence is without a beginning"
+			}
+		],
+		"transliteration": "Al-Awwal"
+	},
+	{
+		"arabic": "الآخِرُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Penghabisan/Yang Akhir, iaitu kekal terus setelah habisnya segala sesuatu yang maujud"
+			},
+			{
+				"lang": "en",
+				"text": "The Infinite Last One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Akhir"
+			},
+			{
+				"lang": "en",
+				"text": "The Last, The One whose Existence is without an end"
+			}
+		],
+		"transliteration": "Al-Akhir"
+	},
+	{
+		"arabic": "الظَّاهِرُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Zahir/Maha Nyata/Maha Menyatakan, iaitu menyatakan dan menampakkan kewujudanNya itu dengan bukti-bukti dan tanda-tanda ciptaanNya"
+			},
+			{
+				"lang": "en",
+				"text": "The Perceptible"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Nyata"
+			},
+			{
+				"lang": "en",
+				"text": "The Manifest, The One that nothing is above Him and nothing is underneath Him, hence He exists without a place. He, The Exalted, His Existence is obvious by proofs and He is clear from the delusions of attributes of bodies"
+			}
+		],
+		"transliteration": "Az-Zaahir"
+	},
+	{
+		"arabic": "الْبَاطِنُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Tersembunyi, iaitu tidak dapat dimaklumi ZatNya, sehingga tidak seorang pun dapat mengenal ZatNya itu"
+			},
+			{
+				"lang": "en",
+				"text": "The Imperceptible"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Ghaib"
+			},
+			{
+				"lang": "en",
+				"text": "The Hidden, The One that nothing is above Him and nothing is underneath Him, hence He exists without a place. He, The Exalted, His Existence is obvious by proofs and He is clear from the delusions of attributes of bodies"
+			}
+		],
+		"transliteration": "Al-Baatin"
+	},
+	{
+		"arabic": "الْوَالِي",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Menguasai/Maha Menguasai Urusan/Yang Maha Memerintah, iaitu menggenggam segala sesuatu dalam kekuasaanNya dan menjadi milikNya"
+			},
+			{
+				"lang": "en",
+				"text": "The Holder of Supreme Authority"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Memerintah dan Maha Memberi"
+			},
+			{
+				"lang": "en",
+				"text": "The Governor, The One who owns things and manages them"
+			}
+		],
+		"transliteration": "Al-Waali"
+	},
+	{
+		"arabic": "الْمُتَعَالِي",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Suci/Tinggi, iaitu terpelihara dari segala kekurangan dan kerendahan"
+			},
+			{
+				"lang": "en",
+				"text": "The Extremely Exalted One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Tinggi"
+			},
+			{
+				"lang": "en",
+				"text": "The Most Exalted, The High Exalted, The One who is clear from the attributes of the creation"
+			}
+		],
+		"transliteration": "Al-Muta’ali"
+	},
+	{
+		"arabic": "الْبَرُّ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Dermawan/Maha Bagus (Sumber Segala Kelebihan)/Yang banyak membuat kebajikan, iaitu banyak kebaikanNya dan besar kenikmatan yang dilimpahkanNya"
+			},
+			{
+				"lang": "en",
+				"text": "The Fountain-Head of Truth"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Baik dan Dermawan"
+			},
+			{
+				"lang": "en",
+				"text": "The Source of All Goodness, The Righteous, The One who is kind to His creatures, who covered them with His sustenance and specified whoever He willed among them by His support, protection, and special mercy"
+			}
+		],
+		"transliteration": "Al-Barr"
+	},
+	{
+		"arabic": "التَّوَّابُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Penerima Taubat, iaitu memberikan pertolongan kepada orang-orang yang melakukan maksiat untuk bertaubat lalu Allah akan menerimanya"
+			},
+			{
+				"lang": "en",
+				"text": "The Ever-Acceptor of Repentance"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Penerima Taubat"
+			},
+			{
+				"lang": "en",
+				"text": "The Relenting, The One who grants repentance to whoever He willed among His creatures and accepts his repentance"
+			}
+		],
+		"transliteration": "At-Tawwaab"
+	},
+	{
+		"arabic": "الْمُنْتَقِمُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Penyiksa/Yang Maha Menghukum, kepada mereka yang bersalah dan orang yang berhak untuk memperoleh siksaNya"
+			},
+			{
+				"lang": "en",
+				"text": "The Retaliator"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Penyiksa"
+			},
+			{
+				"lang": "en",
+				"text": "The Avenger, The One who victoriously prevails over His enemies and punishes them for their sins. It may mean the One who destroys them"
+			}
+		],
+		"transliteration": "Al-Muntaqim"
+	},
+	{
+		"arabic": "العَفُوُّ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pemaaf/Yang Maha Pengampun, menghapuskan kesalahan orang yang suka kembali untuk meminta maaf padaNya"
+			},
+			{
+				"lang": "en",
+				"text": "The Supreme Pardoner"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Pemaaf"
+			},
+			{
+				"lang": "en",
+				"text": "The Forgiver, The One with wide forgiveness"
+			}
+		],
+		"transliteration": "Al-Afuww"
+	},
+	{
+		"arabic": "الرَّؤُوفُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pengasih/Maha Mengasihi, banyak kerahmatan dan kasih sayangNya"
+			},
+			{
+				"lang": "en",
+				"text": "The Benign One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Pelimpah Kasih"
+			},
+			{
+				"lang": "en",
+				"text": "The Compassionate, The One with extreme Mercy. The Mercy of Allah is His will to endow upon whoever He willed among His creatures"
+			}
+		],
+		"transliteration": "Ar-Ra’oof"
+	},
+	{
+		"arabic": "مَالِكُ الْمُلْكِ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pemilik Kekuasaan /Maha Menguasai kerajaan/Pemilik Kedaulatan Yang Kekal, maka segala perkara yang berlaku di alam semesta, langit, bumi dan sekitarnya serta yang di alam semesta itu semuanya sesuai dengan kehendak dan iradatNya"
+			},
+			{
+				"lang": "en",
+				"text": "The Eternal Possessor of Sovereignty"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Memiliki Kerajaan"
+			},
+			{
+				"lang": "en",
+				"text": "The One who controls the Dominion and gives dominion to whoever He willed"
+			}
+		],
+		"transliteration": "Maalik-ul-Mulk"
+	},
+	{
+		"arabic": "ذُوالْجَلاَلِ وَالإكْرَامِ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pemilik Keagungan dan Kemuliaan /Maha Memiliki Kebesaran dan Kemuliaan. Juga Zat yang mempunyai keutamaan dan kesempurnaan, pemberi kurnia dan kenikmatan yang amat banyak dan melimpah ruah"
+			},
+			{
+				"lang": "en",
+				"text": "The Possessor of Majesty and Honour"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Memiliki Kebesaran dan Kemuliaan"
+			},
+			{
+				"lang": "en",
+				"text": "The Lord of Majesty and Bounty, The One who deserves to be Exalted and not denied"
+			}
+		],
+		"transliteration": "Zul-Jalaali-wal-Ikram"
+	},
+	{
+		"arabic": "الْمُقْسِطُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Mengadili/Maha Saksama, iaitu memberikan kemenangan pada orang-orang yang teraniaya dari tindakan orang-orang yang menganiaya dengan keadilanNya"
+			},
+			{
+				"lang": "en",
+				"text": "The Just One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Menyeimbangkan"
+			},
+			{
+				"lang": "en",
+				"text": "The Equitable, The One who is Just in His judgment"
+			}
+		],
+		"transliteration": "Al-Muqsit"
+	},
+	{
+		"arabic": "الْجَامِعُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Mengumpulkan/Maha Pengumpul, iaitu mengumpulkan berbagai hakikat yang telah bercerai-berai dan juga mengumpulkan seluruh umat manusia pada hari pembalasan"
+			},
+			{
+				"lang": "en",
+				"text": "The Assembler of Scattered Creations"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Menghimpun"
+			},
+			{
+				"lang": "en",
+				"text": "The Gatherer, The One who gathers the creatures on a day that there is no doubt about, that is the Day of Judgment"
+			}
+		],
+		"transliteration": "Al-Jaami’"
+	},
+	{
+		"arabic": "الْغَنِيُّ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Kaya Raya/Maha Kaya serta Serba Lengkap, iaitu tidak berkehendakkan apa juapun dari yang selain ZatNya sendiri, tetapi yang selainNya itu amat mengharapkan padaNya"
+			},
+			{
+				"lang": "en",
+				"text": "The Self-Sufficient One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Kaya"
+			},
+			{
+				"lang": "en",
+				"text": "The One who does not need the creation"
+			}
+		],
+		"transliteration": "Al-Ghaniyy"
+	},
+	{
+		"arabic": "الْمُغْنِي",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pemberi kekayaan/Maha Mengkayakan dan Memakmurkan, iaitu memberikan kelebihan yang berupa kekayaan yang berlimpah-ruah kepada siapa saja yang dikehendaki dari golongan hamba-hambaNya"
+			},
+			{
+				"lang": "en",
+				"text": "The Bestower of Sufficiency"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha  Pemberi Kekayaan "
+			},
+			{
+				"lang": "en",
+				"text": "The Enricher, The One who satisfies the necessities of the creatures"
+			}
+		],
+		"transliteration": "Al-Mughni"
+	},
+	{
+		"arabic": "اَلْمَانِعُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Membela atau Maha Menolak/Maha Pencegah, iaitu membela hamba-hambaNya yang soleh dan menolak sebab-sebab yang menyebabkan kerosakan"
+			},
+			{
+				"lang": "en",
+				"text": "The Preventer"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Mencegah"
+			},
+			{
+				"lang": "en",
+				"text": "The Withholder"
+			}
+		],
+		"transliteration": "Al-Maani’"
+	},
+	{
+		"arabic": "الضَّارَّ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Mendatangkan Mudharat/Maha Pembuat Bahaya /Maha Pemberi bahaya, iaitu dengan menurunkan seksa-seksaNya kepada musuh-musuhNya"
+			},
+			{
+				"lang": "en",
+				"text": "The Distressor"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Pemberi Derita"
+			},
+			{
+				"lang": "en",
+				"text": "The One who makes harm reach to whoever He willed and benefit to whoever He willed"
+			}
+		],
+		"transliteration": "Ad-Daarr"
+	},
+	{
+		"arabic": "النَّافِعُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pemberi Manfaat , iaitu meluaslah kebaikan yang dikurniakanNya itu kepada semua hamba, masyarakat dan negeri"
+			},
+			{
+				"lang": "en",
+				"text": "The Bestower of Benefits"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Pemberi Manfaat"
+			},
+			{
+				"lang": "en",
+				"text": "The Propitious, The One who makes harm reach to whoever He willed and benefit to whoever He willed"
+			}
+		],
+		"transliteration": "An-Naafi’"
+	},
+	{
+		"arabic": "النُّورُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pemberi Cahaya /Maha Bercahaya, iaitu menonjokan ZatNya sendiri dan menampakkan untuk yang selainNya dengan menunjukkan tanda-tanda kekuasaanNya"
+			},
+			{
+				"lang": "en",
+				"text": "The Prime Light"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Bercahaya"
+			},
+			{
+				"lang": "en",
+				"text": "The Light, The One who guides"
+			}
+		],
+		"transliteration": "An-Noor"
+	},
+	{
+		"arabic": "الْهَادِي",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Pemberi Petunjuk/Yang Memimpin dan Memberi Pertunjuk, iaitu memberikan jalan yang benar kepada segala sesuatu agar berterusan adanya dan terjaga kehidupannya"
+			},
+			{
+				"lang": "en",
+				"text": "The Provider of Guidance"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Petunjuk"
+			},
+			{
+				"lang": "en",
+				"text": "The Guide, The One whom with His Guidance His believers were guided, and with His Guidance the living beings have been guided to what is beneficial for them and protected from what is harmful to them"
+			}
+		],
+		"transliteration": "Al-Haadi"
+	},
+	{
+		"arabic": "الْبَدِيعُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Indah/Tiada Bandingan /Maha Pencipta yang baru, sehingga tidak ada contoh dan yang menyamai sebelum keluarnya ciptaanNya itu"
+			},
+			{
+				"lang": "en",
+				"text": "The Unique One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Pencipta Keindahan"
+			},
+			{
+				"lang": "en",
+				"text": "The Incomparable, The One who created the creation and formed it without any preceding example"
+			}
+		],
+		"transliteration": "Al-Badi’"
+	},
+	{
+		"arabic": "اَلْبَاقِي",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Kekal, iaitu kekal hidupNya untuk selama-lamanya"
+			},
+			{
+				"lang": "en",
+				"text": "The Ever Surviving One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Kekal"
+			},
+			{
+				"lang": "en",
+				"text": "The Everlasting, The One that the state of non-existence is impossible for Him"
+			}
+		],
+		"transliteration": "Al-Baaqi"
+	},
+	{
+		"arabic": "الْوَارِثُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Membahagi/Maha Mewarisi /Maha Pewaris, iaitu kekal setelah musnahnya seluruh makhluk"
+			},
+			{
+				"lang": "en",
+				"text": "The Eternal Inheritor"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Mewarisi"
+			},
+			{
+				"lang": "en",
+				"text": "The Heir, The One whose Existence remains"
+			}
+		],
+		"transliteration": "Al-Waaris"
+	},
+	{
+		"arabic": "الرَّشِيدُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Cendekiawan/Maha Pandai/Bijaksana/Maha Memimpin, iaitu yang memimpin kepada kebenaran, iaitu memberi penerangan dan panduan pada seluruh hambaNya dan segala peraturanNya itu berjalan mengikut ketentuan yang digariskan oleh kebijaksanaan dan kecendekiawanNya"
+			},
+			{
+				"lang": "en",
+				"text": "The Guide to Path of Rectitude"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Pintar dan Maha Cerdas"
+			},
+			{
+				"lang": "en",
+				"text": "The Guide to the Right Path, The One who guides"
+			}
+		],
+		"transliteration": "Ar-Rasheed"
+	},
+	{
+		"arabic": "الصَّبُورُ",
+		"explanations":
+		[
+			{
+				"lang": "ms",
+				"text": "Maha Penyabar yang tidak tergesa-gesa memberikan seksaan dan tidak juga cepat melaksanakan sesuatu sebelum masanya"
+			},
+			{
+				"lang": "en",
+				"text": "The Extensively Enduring One"
+			}
+		],
+		"meanings":
+		[
+			{
+				"lang": "ms",
+				"text": "Yang Maha Sabar"
+			},
+			{
+				"lang": "en",
+				"text": "The Patient, The One who does not quickly punish the sinners"
+			}
+		],
+		"transliteration": "As-Saboor"
+	}
+]

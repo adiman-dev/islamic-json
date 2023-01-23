@@ -1,0 +1,138 @@
+[
+	{
+		"arabic": "جبريل",
+		"transliteration": "Jibril",
+		"details":
+		[
+			{
+				"lang": "ms",
+				"text": "Menyampaikan wahyu Allah"
+			},
+			{
+				"lang": "en",
+				"text": "Brings down the revelation from Allah SWT to the Prophets"
+			}
+		]
+	},
+	{
+		"arabic": "إسرافيل‎",
+		"transliteration": "Israfil",
+		"details":
+		[
+			{
+				"lang": "ms",
+				"text": "Meniup sangkakala apabila diperintahkan Allah "
+			},
+			{
+				"lang": "en",
+				"text": "Doomsday trumpet blower"
+			}
+		]
+	},
+	{
+		"arabic": "ميكائيل",
+		"transliteration": "Mikail",
+		"details":
+		[
+			{
+				"lang": "ms",
+				"text": "Menyampaikan/membawa rezeki yang ditentukan Allah"
+			},
+			{
+				"lang": "en",
+				"text": "Delivers rezki or sustenance"
+			}
+		]
+	},
+	{
+		"arabic": "عزرائيل",
+		"transliteration": "'Izra'il",
+		"details":
+		[
+			{
+				"lang": "ms",
+				"text": "Mencabut nyawa"
+			},
+			{
+				"lang": "en",
+				"text": "Take a life"
+			}
+		]
+	},
+	{
+		"arabic": "كراماً كاتبين",
+		"transliteration": "Kiraaman-Kaatibin",
+		"details":
+		[
+			{
+				"lang": "ms",
+				"text": "Mencatat segala amalan baik dan buruk manusia"
+			},
+			{
+				"lang": "en",
+				"text": "Two angels who writes your good deeds while the other writes your bad deeds"
+			}
+		]
+	},
+	{
+		"arabic": "منكر",
+		"transliteration": "Munkar",
+		"details":
+		[
+			{
+				"lang": "ms",
+				"text": "Menyoal si mati di dalam kubur"
+			},
+			{
+				"lang": "en",
+				"text": "Question the dead in the grave"
+			}
+		]
+	},
+	{
+		"arabic": "نكير",
+		"transliteration": "Nakir",
+		"details":
+		[
+			{
+				"lang": "ms",
+				"text": "Menyoal si mati di dalam kubur"
+			},
+			{
+				"lang": "en",
+				"text": "Question the dead in the grave"
+			}
+		]
+	},
+	{
+		"arabic": "رضوان‎",
+		"transliteration": "Ridhwan",
+		"details":
+		[
+			{
+				"lang": "ms",
+				"text": "Menjaga pintu syurga dan menyambut ahli syurga"
+			},
+			{
+				"lang": "en",
+				"text": "Chief of the angels who govern heaven"
+			}
+		]
+	},
+	{
+		"arabic": "مالك",
+		"transliteration": "Malik",
+		"details":
+		[
+			{
+				"lang": "ms",
+				"text": "Menjaga pintu neraka dan menyambut ahli neraka"
+			},
+			{
+				"lang": "en",
+				"text": "Chief of the angels who govern hell"
+			}
+		]
+	}
+]
+
