@@ -12,12 +12,12 @@ Feel free to use and do a pull request and feel free to use. No license.
 Use it freely and may it be beneficial. Insya Allah
 
 ## Contents
-1. Asmaul Husna
-2. Ange Names
-3. Prophets
-4. Adhan
-5. Sunnah's rememberance after solah
-6. Saiyyidul Istigfar
+1. Asmaul Husna (asma.json)
+2. Angel Names (angel.json)
+3. Prophets (prophet.json)
+4. Adhan (adhan.json)
+5. Sunnah's rememberance after solah (remembrance.json)
+6. Saiyyidul Istigfar (istigfar.json)
 
 ## TODO Translations (Need help/contributors) 
 - [x] Bahasa Melayu
@@ -27,7 +27,6 @@ Use it freely and may it be beneficial. Insya Allah
 - [ ] Urdu
 - [ ] French
 - [ ] Portuguese
-- [ ] Bahasa Indonesia
 - [ ] Japanese
 - [ ] Italian
 - [ ] Russian
